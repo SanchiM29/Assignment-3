@@ -1,0 +1,4 @@
+#Problem Name: Weather Observation Station 1
+#Language: MYSQL
+
+SELECT CITY, STATE FROM STATION
