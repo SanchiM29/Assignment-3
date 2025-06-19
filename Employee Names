@@ -1,0 +1,5 @@
+#Problem name: Employee Names
+#Language: MySQL
+
+SELECT name FROM Employee
+ORDER BY name
