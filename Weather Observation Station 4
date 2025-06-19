@@ -1,0 +1,4 @@
+#Problem name: Weather Observation station 4
+#Language: MYSQL
+SELECT (COUNT(CITY) - COUNT(DISTINCT CITY)) AS C 
+FROM STATION;
