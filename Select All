@@ -1,0 +1,4 @@
+#Problem Name: SELECT ALL
+#Language: MYSQL
+
+SELECT * FROM CITY
